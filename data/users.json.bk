@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame@landytech.com",
+        "roles": [
+            "User"
+        ],
+        "password": "abc123",
+        "dateCreated": "2021-04-08T05:33:05.184Z",
+        "dateUpdated": "2021-04-08T05:33:05.184Z"
+    }
+]

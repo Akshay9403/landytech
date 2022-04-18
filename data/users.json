@@ -1,0 +1,208 @@
+[
+    {
+        "id": 1,
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame@landytech.com",
+        "roles": [
+            "User"
+        ],
+        "password": "abc123",
+        "dateCreated": "2021-04-08T05:33:05.184Z",
+        "dateUpdated": "2021-04-08T05:33:05.184Z"
+    },
+    {
+        "title": "Miss",
+        "firstName": "Newtest1",
+        "lastName": "Landy1",
+        "email": "test@landyy.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "12345",
+        "id": 2,
+        "dateCreated": "2022-04-17T04:19:54.367Z",
+        "dateUpdated": "2022-04-17T04:19:54.554Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 3,
+        "dateCreated": "2022-04-17T10:46:56.775Z",
+        "dateUpdated": "2022-04-17T10:46:56.789Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame@lanldytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 4,
+        "dateCreated": "2022-04-17T11:01:08.236Z",
+        "dateUpdated": "2022-04-17T11:01:08.236Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1031@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 5,
+        "dateCreated": "2022-04-17T11:31:18.679Z",
+        "dateUpdated": "2022-04-17T11:31:18.688Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1551@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 6,
+        "dateCreated": "2022-04-17T11:41:05.448Z",
+        "dateUpdated": "2022-04-17T11:41:05.487Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1619@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 7,
+        "dateCreated": "2022-04-17T11:42:31.021Z",
+        "dateUpdated": "2022-04-17T11:42:31.021Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1302@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 8,
+        "dateCreated": "2022-04-17T11:46:49.869Z",
+        "dateUpdated": "2022-04-17T11:46:49.869Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1833@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 9,
+        "dateCreated": "2022-04-17T11:48:20.008Z",
+        "dateUpdated": "2022-04-17T11:48:20.008Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1417@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 10,
+        "dateCreated": "2022-04-17T12:15:16.938Z",
+        "dateUpdated": "2022-04-17T12:15:17.136Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1874@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 11,
+        "dateCreated": "2022-04-17T12:18:01.039Z",
+        "dateUpdated": "2022-04-17T12:18:01.039Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame",
+        "lastName": "Landy",
+        "email": "sesame1390@llandytech.com",
+        "roles": [
+            "User",
+            "Admin"
+        ],
+        "password": "64056405",
+        "id": 12,
+        "dateCreated": "2022-04-17T12:28:09.043Z",
+        "dateUpdated": "2022-04-17T12:28:09.043Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "akshay",
+        "lastName": "pardes",
+        "email": "sesame@landytecssh.com",
+        "roles": [
+            "User"
+        ],
+        "password": "abc1231",
+        "id": 13,
+        "dateCreated": "2022-04-17T12:44:50.435Z",
+        "dateUpdated": "2022-04-17T12:44:50.435Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame 2",
+        "lastName": "Landy",
+        "email": "sesame-2-x@landytech.com",
+        "roles": [
+            "User"
+        ],
+        "password": "abc123",
+        "id": 14,
+        "dateCreated": "2022-04-17T12:48:48.619Z",
+        "dateUpdated": "2022-04-17T12:48:48.619Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Sesame 13",
+        "lastName": "Landy",
+        "email": "sesame-13-x@landytech.com",
+        "roles": [
+            "User"
+        ],
+        "password": "abc123",
+        "id": 15,
+        "dateCreated": "2022-04-17T12:56:21.506Z",
+        "dateUpdated": "2022-04-17T12:56:21.506Z"
+    }
+]
